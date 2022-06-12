@@ -1,0 +1,22 @@
+{
+  "name": "js-course",
+  "version": "0.1.0",
+  "description": "javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NyiNyiLwinZinHtet/js-course.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "nyinyilwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NyiNyiLwinZinHtet/js-course/issues"
+  },
+  "homepage": "https://github.com/NyiNyiLwinZinHtet/js-course#readme"
+}
